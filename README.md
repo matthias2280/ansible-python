@@ -7,3 +7,4 @@ I've taken a different approach than normal as I am using Python to create a pla
 I'm told that this approach is a bit odd but manipulating data in python is easier for me than malipulating variables in files in directories in Ansible.
 
 The syntax is:
+python 
